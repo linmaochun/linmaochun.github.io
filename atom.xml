@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://linmaochun.github.io</id>
-    <title>linmaochun&apos;s blog</title>
-    <updated>2020-11-28T10:01:31.316Z</updated>
+    <title>洋葱头AlliumCepa </title>
+    <updated>2021-01-20T08:48:19.166Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://linmaochun.github.io"/>
     <link rel="self" href="https://linmaochun.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>洋葱头AlliumCepa的数字生活日记
+公众号：洋葱头AlliumCepa</subtitle>
     <logo>https://linmaochun.github.io/images/avatar.png</logo>
     <icon>https://linmaochun.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, linmaochun&apos;s blog</rights>
+    <rights>All rights reserved 2021, 洋葱头AlliumCepa </rights>
     <entry>
         <title type="html"><![CDATA[Hello World]]></title>
         <id>https://linmaochun.github.io/post/hello-world/</id>
